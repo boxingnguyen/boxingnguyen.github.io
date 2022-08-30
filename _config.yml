@@ -9,7 +9,7 @@ version: 2
 name: Nguyen Quyen Anh
 title: Flutter Mobile App Developer
 email: anh.nguyenquyen93@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -30,10 +30,10 @@ linkedin_username: quyen-anh-nguyen
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Quyen Anh and I'm a Flutter mobile app developer in Hanoi, Vietnam. As well as administrating systems I also have experience making software and web apps. I love swimming and can play many other sports.
-  I like guitar, detective novel and backpacking as well.
+  Hi, my name's Quyen Anh and I'm a Flutter mobile app developer in Hanoi, Vietnam.
 
   I am most skilled in: <mark>Flutter</mark> and <mark>Eating Pho</mark>
 
@@ -80,10 +79,10 @@ about_content: | # this will include new lines to allow paragraphs
         title: The Tribal Media House Technology Lab Company
         link: tmh-techlab.vn
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Developer
         caption: November 2016 - February 2021
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           - Web Developer(2016 - 2018): Project Engage Manager https://engagemanager.tribalmedia.co.jp/.
             Used technologies: Html, Css with bootstrap, js with jquery, mysql & mongodb, php with cakePhp, RESTful API, MVC pattern.
