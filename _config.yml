@@ -48,69 +48,90 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Quyen Anh and I'm a Flutter mobile app developer in Hanoi, Vietnam. As well as administrating systems I also have experience making software and web apps. I love swimming and can play many other sports.
+  I like guitar, detective novel and backpacking as well.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Flutter</mark> and <mark>Eating Pho</mark>
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+# content:
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Super awesome project
+#         link: github.com/sproogen
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         quote: >
+#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#         description: | # this will include new lines to allow paragraphs
+#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: The Tribal Media House Technology Lab Company
+        link: tmh-techlab.vn
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: November 2016 - February 2021
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          - Web Developer(2016 - 2018): Project Engage Manager https://engagemanager.tribalmedia.co.jp/.
+            Used technologies: Html, Css with bootstrap, js with jquery, mysql & mongodb, php with cakePhp, RESTful API, MVC pattern.
+          - Ios Developer(2018 - 2019): Ours - Social Internal App (terminated).
+            Used technologies: Swift, RxSwift, Alamofire, Realm, BLE, MVC pattern.
+          - Flutter Developer(2019 - Feb 2021): Project NTMY - Business card app https://apps.apple.com/vn/app/ntmy/id1502013921.
+            Used technologies: Provider, Dio, multi-lang, firebase, testing.
+          - Self-project: Image classifying uses Raspberry Pi, TensorFlow and python.
+    content:
+      - layout: left
+        title: The GMO-Z.com RUNSYSTEM
+        link: runsystem.net
+        sub_title: Flutter Team Lead
+        caption: March 2021 - Present
+        quote: >
+          Building beautiful, natively compiled, multi-platform applications from a single codebase.
+        description: | # this will include new lines to allow paragraphs
+          - Flutter Dveloper: Project ChintaiDx - Realestate mangement system https://chintaidx.com/.
+            Used technologies: Provider, Graphql, chat system, firebase, graphic, stream, native module.
+          - Self-project: NFC mangement.
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Hanoi University of Science and Technology (HUST)
+        caption: 2012- 2018
+        sub_title: Electronics and Telecommunication engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          HUST or another lovely Vietnamese name is Bach Khoa (means "teach everything" - 100 department) was founded in 1636, is the first and largest technical university in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at HUST I learned how big the world is, how ebb and flow of life is, how crazy of youth is and how to love and be loved.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          I spent a lot of my free time as an member of the *Bach Khoa voluntary blood donation Team* taking on roles as *Captain*. Moreover, I also take part in activity that help new student to find motel.
+          And I can't forget the green terraced fields when I went to remote areas to help ethnic minorities.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in Flutter and technology some of my other interests and hobbies are:
+      - Swimming & footbal
+      - Backpacking
+      - Rock & epic music
+      - Poetry
+      - Detective novel and film
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](https://www.pinterest.com/pin/405886985139418794/ "Strong")
 
 # Footer
 footer_show_references: true
