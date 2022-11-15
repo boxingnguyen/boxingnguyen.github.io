@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Quyen Anh and I'm a Flutter mobile app developer in Hanoi, Vietnam.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Flutter</mark> and <mark>Eating Bun Dau Mam Tom</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -72,41 +72,41 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Tribal Media House Technology Lab Company
-        link: tmh-techlab.vn
-        # link_text: boringcompany.com
-        sub_title: Developer
-        caption: November 2016 - February 2021
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Web Developer(2016 - 2018): Project Engage Manager https://engagemanager.tribalmedia.co.jp/.
-            Used technologies: Html, Css with bootstrap, js with jquery, mysql & mongodb, php with cakePhp, RESTful API, MVC pattern.
-          - Ios Developer(2018 - 2019): Ours - Social Internal App (terminated).
-            Used technologies: Swift, RxSwift, Alamofire, Realm, BLE, MVC pattern.
-          - Flutter Developer(2019 - Feb 2021): Project NTMY - Business card app https://apps.apple.com/vn/app/ntmy/id1502013921.
-            Used technologies: Provider, Dio, multi-lang, firebase, testing.
-          - Self-project: Image classifying uses Raspberry Pi, TensorFlow and python.
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: The Tribal Media House Technology Lab Company
+  #       link: tmh-techlab.vn
+  #       # link_text: boringcompany.com
+  #       sub_title: Developer
+  #       caption: November 2016 - February 2021
+  #       # quote: >
+  #       #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #       description: | # this will include new lines to allow paragraphs
+  #         - Web Developer(2016 - 2018): Project Engage Manager https://engagemanager.tribalmedia.co.jp/.
+  #           Used technologies: Html, Css with bootstrap, js with jquery, mysql & mongodb, php with cakePhp, RESTful API, MVC pattern.
+  #         - Ios Developer(2018 - 2019): Ours - Social Internal App (terminated).
+  #           Used technologies: Swift, RxSwift, Alamofire, Realm, BLE, MVC pattern.
+  #         - Flutter Developer(2019 - Feb 2021): Project NTMY - Business card app https://apps.apple.com/vn/app/ntmy/id1502013921.
+  #           Used technologies: Provider, Dio, multi-lang, firebase, testing.
+  #         - Self-project: Image classifying uses Raspberry Pi, TensorFlow and python.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)          
-    content:
-      - layout: left
-        title: The GMO-Z.com RUNSYSTEM
-        link: runsystem.net
-        sub_title: Flutter Team Lead
-        caption: March 2021 - Present
-        quote: >
-          Building beautiful, natively compiled, multi-platform applications from a single codebase.
-        description: | # this will include new lines to allow paragraphs
-          - Flutter Dveloper: Project ChintaiDx - Realestate mangement system https://chintaidx.com/.
-            Team size (dev): 12
-            Used technologies: Provider, Graphql, chat system, firebase, graphic, stream, native module.
-          - Self-project: NFC mangement.
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)          
+  #   content:
+  #     - layout: left
+  #       title: The GMO-Z.com RUNSYSTEM
+  #       link: runsystem.net
+  #       sub_title: Flutter Team Lead
+  #       caption: March 2021 - Present
+  #       quote: >
+  #         Building beautiful, natively compiled, multi-platform applications from a single codebase.
+  #       description: | # this will include new lines to allow paragraphs
+  #         - Flutter Dveloper: Project ChintaiDx - Realestate mangement system https://chintaidx.com/.
+  #           Team size (dev): 12
+  #           Used technologies: Provider, Graphql, chat system, firebase, graphic, stream, native module.
+  #         - Self-project: NFC mangement.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
