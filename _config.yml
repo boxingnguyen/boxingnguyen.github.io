@@ -45,7 +45,7 @@ linkedin_username: quyen-anh-nguyen
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+# about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Quyen Anh and I'm a Flutter mobile app developer in Hanoi, Vietnam.
