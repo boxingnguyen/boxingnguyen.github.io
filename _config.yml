@@ -53,27 +53,78 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Flutter</mark> and <mark>Eating Bun Dau Mam Tom</mark>
 
 content:
-  - title: Education # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Hanoi University of Science and Technology (HUST)
-        caption: 2012- 2018
-        sub_title: Electronics and Telecommunication engineering
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          HUST or another lovely Vietnamese name is Bach Khoa (means "teach everything" - 100 department) was founded in 1636, is the first and largest technical university in Vietnam.
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          During my time at HUST I learned how big the world is, how ebb and flow of life is, how crazy of youth is and how to love and be loved.
-
-          I spent a lot of my free time as an member of the *Bach Khoa voluntary blood donation Team* taking on roles as *Captain*. Moreover, I also take part in activity that help new student to find motel.
-          And I can't forget the green terraced fields when I went to remote areas to help ethnic minorities.
+          Description about the work on/with the project
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Flutter and Mobile app developer some of my other interests and hobbies are:
-      - Swmimming
-      - Trekking
-      - Playing football (soccer)
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# content:
+#   - title: Education # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: Hanoi University of Science and Technology (HUST)
+#         caption: 2012- 2018
+#         sub_title: Electronics and Telecommunication engineering
+#         quote: >
+#           HUST or another lovely Vietnamese name is Bach Khoa (means "teach everything" - 100 department) was founded in 1636, is the first and largest technical university in Vietnam.
+#         description: | # this will include new lines to allow paragraphs
+#           During my time at HUST I learned how big the world is, how ebb and flow of life is, how crazy of youth is and how to love and be loved.
+
+#           I spent a lot of my free time as an member of the *Bach Khoa voluntary blood donation Team* taking on roles as *Captain*. Moreover, I also take part in activity that help new student to find motel.
+#           And I can't forget the green terraced fields when I went to remote areas to help ethnic minorities.
+#   - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Alongside my interests in Flutter and Mobile app developer some of my other interests and hobbies are:
+#       - Swmimming
+#       - Trekking
+#       - Playing football (soccer)
 
 # Footer
 footer_show_references: true
