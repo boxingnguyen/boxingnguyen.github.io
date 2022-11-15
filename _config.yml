@@ -107,7 +107,6 @@ content:
   #           Team size (dev): 12
   #           Used technologies: Provider, Graphql, chat system, firebase, graphic, stream, native module.
   #         - Self-project: NFC mangement.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -122,7 +121,6 @@ content:
 
           I spent a lot of my free time as an member of the *Bach Khoa voluntary blood donation Team* taking on roles as *Captain*. Moreover, I also take part in activity that help new student to find motel.
           And I can't forget the green terraced fields when I went to remote areas to help ethnic minorities.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
