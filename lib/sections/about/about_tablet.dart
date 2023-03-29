@@ -1,15 +1,14 @@
+import 'package:flutter/material.dart';
 import 'package:folio/configs/configs.dart';
+import 'package:folio/constants.dart';
 import 'package:folio/utils/about_utils.dart';
 import 'package:folio/utils/utils.dart';
 import 'package:folio/utils/work_utils.dart';
-
-import 'package:folio/widget/custom_text_heading.dart';
-import 'package:universal_html/html.dart' as html;
-import 'package:flutter/material.dart';
-import 'package:folio/constants.dart';
 import 'package:folio/widget/about_me_data.dart';
 import 'package:folio/widget/community_button.dart';
+import 'package:folio/widget/custom_text_heading.dart';
 import 'package:folio/widget/tech_widget.dart';
+import 'package:universal_html/html.dart' as html;
 
 class AboutTab extends StatelessWidget {
   const AboutTab({Key? key}) : super(key: key);
@@ -98,7 +97,7 @@ class AboutTab extends StatelessWidget {
                 children: const [
                   AboutMeData(
                     data: "Name",
-                    information: "Muhammad Hamza",
+                    information: "Nguyen Quyen Anh",
                   ),
                   AboutMeData(
                     data: "Age",
@@ -114,7 +113,7 @@ class AboutTab extends StatelessWidget {
                 children: const [
                   AboutMeData(
                     data: "Email",
-                    information: "hamza.6.shakeel@gmail.com",
+                    information: "Quyen Anh.6.shakeel@gmail.com",
                   ),
                   AboutMeData(
                     data: "From",

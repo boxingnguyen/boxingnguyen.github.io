@@ -1,7 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 import 'package:folio/configs/configs.dart';
-
 import 'package:folio/utils/utils.dart';
 import 'package:folio/widget/social_links.dart';
 
@@ -55,14 +54,14 @@ class HomeMobile extends StatelessWidget {
                 ),
                 Space.y!,
                 Text(
-                  "Muhammad",
+                  "Nguyen",
                   style: AppText.h3!.copyWith(
                     fontFamily: 'Montserrat',
                     fontWeight: FontWeight.w100,
                   ),
                 ),
                 Text(
-                  "Hamza",
+                  "Quyen Anh",
                   style: AppText.h3b!.copyWith(
                     height: 1,
                   ),

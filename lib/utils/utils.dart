@@ -11,8 +11,8 @@ class StaticUtils {
 
   // photos
   static const String mobilePhoto = 'assets/photos/mobile.png';
-  static const String coloredPhoto = 'assets/photos/colored.png';
-  static const String blackWhitePhoto = 'assets/photos/black-white.png';
+  static const String coloredPhoto = 'assets/photos/colored.jpeg';
+  static const String blackWhitePhoto = 'assets/photos/colored.jpeg';
 
   // work
   static const String dsc = 'assets/work/dsc.png';
@@ -38,12 +38,12 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://facebook.com/QuyenAnh175",
+    "https://www.instagram.com/brian.nguyen13579",
+    "https://twitter.com/boxingnguyen",
+    "https://linkedin.com/in/quyen-anh-nguyen",
+    "https://github.com/boxingnguyen",
+    "https://medium.com"
   ];
 
   static const String resume =

@@ -31,7 +31,7 @@ Is a multi-platform portfolio for developers available for mobile, windows and w
 
 📱 Android App: https://play.google.com/store/apps/details?id=com.hmz.folio
 
-📙 Article: https://mhamzadev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f
+📙 Article: https://mQuyen Anhdev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f
 
 
 ## 🔑 License
@@ -45,8 +45,8 @@ Is a multi-platform portfolio for developers available for mobile, windows and w
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Quyen Anh-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-Quyen Anhshakeel)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2020 Nguyen Quyen Anh
