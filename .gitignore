@@ -3,3 +3,5 @@
 .dart_tool/*
 build/*
 windows/*
+.DS_Store
+.flutter-plugins-dependencies
