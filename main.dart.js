@@ -75812,7 +75812,7 @@ $.aAa=null
 $.aA4=null
 $.aA5=null
 $.aA6=null
-$.Bw=A.a(["Flutter","Dart","Python","Java","C++"],t.s)
+$.Bw=A.a(["Flutter","Swift & SwiftUI","PHP","Javascript","VHDL & Verilog"],t.s)
 $.aFb=A.aT(["dark",B.af,"light",B.c1],t.N,A.ag("qk"))
 $.ajM=null
 $.axh=A.C(t.S,A.ag("aGn"))})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
