@@ -1,25 +1,24 @@
 {
     "name": "Nguyen Quyen Anh",
-    "email": "hamza@mhmz.dev",
+    "email": "anh.nguyenquyen93@gmail.com",
     "subtitles": [
         "Flutter Developer",
-        "Technical Writer",
-        "UI/UX Designer"
+        "Project Manager"
     ],
     "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
     "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
+            "url": "https://www.facebook.com/QuyenAnh175/"
         },
         {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
+            "url": "https://www.instagram.com/brian.nguyen13579/"
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://x.com/boxingnguyen175"
         },
         {
             "platform": "linkedin",
@@ -27,15 +26,15 @@
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
+            "url": "https://github.com/boxingnguyen"
         },
         {
             "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url": "https://medium.com/@boxingnguyen"
         }
     ],
-    "aboutMeHeadline": "I'm Nguyen Quyen Anh, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "aboutMeHeadline": "I am Nguyen Quyen Anh, co-founder of Cross Technology & Education.",
+    "aboueMeDetails": "I'm a 10 years Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
     "technologies": [
         "Flutter",
         "Dart",
@@ -72,7 +71,7 @@
         }
     ],
     "hireMe": {
-        "whatsapp": "923460159889"
+        "whatsapp": "+84338305895"
     },
     "projects": [
         {
